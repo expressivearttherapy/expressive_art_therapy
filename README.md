@@ -15,10 +15,8 @@ Follow these steps to download and run MusicApp:
 
 ### Step 1: Clone the Repository
 
-Open your terminal or command prompt and run the following command to clone the MusicApp repository:
-git clone https://github.com/yourusername/musicapp.git
-
-Make sure to replace `yourusername` with your actual GitHub username.
+Open your terminal or command prompt and run the following command to clone the App repository:
+git clone https://github.com/expressivearttherapy/expressive_art_therapy.git
 
 ### Step 2: Install Dependencies
 
